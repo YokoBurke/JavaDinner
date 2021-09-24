@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DinnerList</string>
+
+        <string name="dinner_1">Tonkatsu</string>
+        <string name="dinner_2">Curry</string>
+        <string name="dinner_3">Mochi</string>
+        <string name="dinner_4">Gyoza</string>
+        <string name="dinner_5">Yakiniku</string>
+        <string name="dinner_6">Kimuchi Nabe</string>
+        <string name="dinner_7">Sashimi</string>
+        <string name="dinner_8">Karaage</string>
+        <string name="dinner_9">Yakinasu</string>
+        <string name="dinner_10">Ebifurai</string>
+        <string name="dinner_11">Ramen</string>
+        <string name="dinner_12">Chawan Mushi</string>
+        <string name="dinner_13">Tarasupa</string>
+        <string name="dinner_14">Soba</string>
+        <string name="dinner_15">Yakisoba</string>
+
+</resources>
